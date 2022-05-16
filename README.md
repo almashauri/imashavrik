@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imashavrik
 - years of experience: "when I was 5, I scribbled stuff on a piece of paper and people came over and said it was Java"
-- making mobile applications (using DART/FLUTTER) is my first priority, 83.72% of the world have a smartphone
-- something you didn't know is that DART is actually a poisonous frog.
+- making mobile applications (using DART/FLUTTER) is my first priority, 83.72% of the world have a smartphone.
+- actually DART is a poisonous frog.
 - aiding others (when I can)  by making tools and writing articles explaining them, cause people hate reading the docs.
 
 - HOBBIES:
@@ -13,7 +13,7 @@
 
 - REMARK:
 - excluding being unsympathetic, imposter syndrome, and the dunning kruger effect which are some of the problems scourging the interractions of person to person and     relationships of a person to society,the effects of CORRELATION FALLACY is the worst of all, there is always no way of recovery from it.
-- I listen to Drake and Mozart
+- I listen to Drake and Mozart.
 - 
 - SIMPLY PUT:
 - DART/FLUTTER,ELIXIR and GOLANG
