@@ -2,7 +2,7 @@
 - years of experience: "when I was 5, I scribbled stuff on a piece of paper and people came over and said it was Java"
 - making mobile applications (using DART/FLUTTER) is my first priority, 83.72% of the world have a smartphone.
 - actually DART is a poisonous frog.
-- aiding others (when I can)  by making tools and writing articles explaining them, cause people hate reading the docs.
+- aiding others (when I can)  by making tools and writing articles explaining them, cause people don't really read the docs.
 
 - HOBBIES:
 - 👀 I’m interested in veggies(am trying harder),seasonally making infosec tools I call them "hntr/hntr_gthrrs/hckrs", and  also love making API's, I find it therapeutic
