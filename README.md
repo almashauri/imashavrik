@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Elixir
 - 💞️ I’m looking to collaborate on all kinds of flutter Projects
 - 📫 ubiquitous on twitter @imashavrik
-
+- apart from tech "am really boring"
 <!---
 imashavrik/imashavrik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
