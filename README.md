@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @imashavrik
-- 👀 I’m interested in veggies, making inforsec tools I call them "instrumenta", and making API's
+- making mobile applications (using flutter) is my first priority on every type of project | aiding others get there by making tools
+- 👀 I’m interested in veggies, making infosec tools I call them "instrumenta/hckrs", and  also making API's
 - 🌱 I’m currently learning Elixir
 - 💞️ I’m looking to collaborate on all kinds of flutter Projects
 - 📫 ubiquitous on twitter @imashavrik
