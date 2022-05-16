@@ -1,21 +1,21 @@
 - 👋 Hi, I’m @imashavrik
-- years of experience: "when I was 5 I scribbled stuff on a piece of paper and people came over and said it was Java"
+- years of experience: "when I was 5, I scribbled stuff on a piece of paper and people came over and said it was Java"
 - making mobile applications (using DART/FLUTTER) is my first priority, 83.72% of the world have a smartphone
 - something you didn't know is that DART is actually a poisonous frog.
 - aiding others (when I can)  by making tools and writing articles explaining them, cause people hate reading the docs.
 
-- hobbies:
+- HOBBIES:
 - 👀 I’m interested in veggies(am trying harder),seasonally making infosec tools I call them "hntr/hntr_gthrrs/hckrs", and  also love making API's, I find it therapeutic
-- 🌱 I’m currently learning Elixir, got my eyes on Elixir too
+- 🌱 I’m currently learning Elixir, got my eyes on Golang too
 - 💞️ I’m looking to collaborate on all kinds of flutter Projects
 - 📫 ubiquitous on twitter @imashavrik
 - apart from tech "am really boring and obnoxious because all I do is tilt my head 37% and ask questions".
 
-- remark:
+- REMARK:
 - excluding being unsympathetic, imposter syndrome, and the dunning kruger effect which are some of the problems scourging the interractions of person to person and     relationships of a person to society,the effects of CORRELATION FALLACY is the worst of all, there is always no way of recovery from it.
 - I listen to Drake and Mozart
 - 
-- simply put:
+- SIMPLY PUT:
 - DART/FLUTTER,ELIXIR and GOLANG
 
 - repos going back public on June 30th.
