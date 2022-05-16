@@ -9,17 +9,17 @@
 - 🌱 I’m currently learning Elixir, got my eyes on Elixir too
 - 💞️ I’m looking to collaborate on all kinds of flutter Projects
 - 📫 ubiquitous on twitter @imashavrik
-- apart from tech "am really boring and obnoxious because all I do is tilt my head 37% and ask questions", see......
-- 
-- excluding being unsympathetic, having imposter syndrome, and the dunning kruger effect which are some of the problems scourging the interractions of person to person     and relationships of a person to society,the effects of CORRELATION FALLACY is the worst of all, there is always no way of recovery from it.
--
+- apart from tech "am really boring and obnoxious because all I do is tilt my head 37% and ask questions".
+
+- remark:
+- excluding being unsympathetic, imposter syndrome, and the dunning kruger effect which are some of the problems scourging the interractions of person to person and     relationships of a person to society,the effects of CORRELATION FALLACY is the worst of all, there is always no way of recovery from it.
 - I listen to Drake and Mozart
 - 
 - simply put:
 - DART/FLUTTER,ELIXIR and GOLANG
-- "in sterquilinis invenitur"
 
-- making all repos public by June 30th,
+- repos going back public on June 30th.
+- "in sterquilinis invenitur"
 <!---
 imashavrik/imashavrik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
