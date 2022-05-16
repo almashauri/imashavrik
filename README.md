@@ -1,10 +1,25 @@
 - 👋 Hi, I’m @imashavrik
-- making mobile applications (using flutter) is my first priority on every type of project | aiding others get there by making tools
-- 👀 I’m interested in veggies, making infosec tools I call them "instrumenta/hckrs", and  also making API's
-- 🌱 I’m currently learning Elixir
+- years of experience: "when I was 5 I scribbled stuff on a piece of paper and people came over and said it was Java"
+- making mobile applications (using DART/FLUTTER) is my first priority, 83.72% of the world have a smartphone
+- something you didn't know is that DART is actually a poisonous frog.
+- aiding others (when I can)  by making tools and writing articles explaining them, cause people hate reading the docs, and think OOP is a universal
+
+- hobbies:
+- 👀 I’m interested in veggies(am trying harder),seasonally making infosec tools I call them "hntr/hntr_gthrrs/hckrs", and  also love making API's, I find it therapeutic
+- 🌱 I’m currently learning Elixir, got my eyes on Elixir too
 - 💞️ I’m looking to collaborate on all kinds of flutter Projects
 - 📫 ubiquitous on twitter @imashavrik
-- apart from tech "am really boring"
+- apart from tech "am really boring and obnoxious because all I do is tilt my head 37% and ask questions", see......
+- 
+- excluding being unsympathetic, having imposter syndrome, and the dunning kruger effect which are some of the problems scourging the interractions of person to person     and relationships of a person to society,the effects of CORRELATION FALLACY is the worst of all, there is always no way of recovery from it.
+-
+- I listen to Drake and Mozart
+- 
+- simply put:
+- DART/FLUTTER,ELIXIR and GOLANG
+- "in sterquilinis invenitur"
+
+- making all repos public by June 30th,
 <!---
 imashavrik/imashavrik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
