@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imashavrik
-- years of experience: "when I was 5, I scribbled stuff on a piece of paper and people came over and said it was Java"
+- years of experience: "when I was 2, I scribbled stuff on a piece of paper and people came over and said it was Java"
 - making mobile applications (using DART/FLUTTER) is my first priority, 83.72% of the world have a smartphone.
 - actually DART is a poisonous frog.
 - aiding others (when I can)  by making tools and writing articles explaining them, cause people don't really read the docs.
