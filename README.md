@@ -5,7 +5,7 @@
 - aiding others (when I can)  by making tools and writing articles explaining them, cause people don't really read the docs.
 
 - HOBBIES:
-- 👀 I’m interested in veggies(am trying harder),seasonally making infosec tools I call them "hntr/hntr_gthrrs/hckrs", and  also love making API's, I find it therapeutic
+- 👀 I love yogurt,seasonally making infosec tools I call them "hntr/hntr_gthrrs/hckrs", and  also love making API's, I find it therapeutic
 - 🌱 I’m currently learning Elixir, got my eyes on Golang too
 - 💞️ I’m looking to collaborate on all kinds of flutter Projects
 - 📫 ubiquitous on twitter @imashavrik
