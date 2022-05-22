@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @imashavrik
+- INTRODUCTION
+- 👋 howdy, Mashauri k, is my name.
 - years of experience: "when I was 2, I scribbled stuff on a piece of paper and people came over and said it was Java"
 - making mobile applications (using DART/FLUTTER) is my first priority, 83.72% of the world have a smartphone.
 - actually DART is a poisonous frog.
