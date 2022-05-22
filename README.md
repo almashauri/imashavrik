@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning Elixir, got my eyes on Golang too
 - 💞️ I’m looking to collaborate on all kinds of flutter Projects
 - 📫 ubiquitous on twitter @imashavrik
-- apart from tech "am really boring because all I do is tilt my head 73% and ask questions".
 
 - REMARK:
 - excluding being unsympathetic, imposter syndrome, and the dunning kruger effect which are some of the problems scourging the interractions of person to person and     relationships of a person to society,the effects of CORRELATION FALLACY is the worst of all, there is always no way of recovery from it.
