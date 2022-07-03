@@ -12,13 +12,12 @@
 - 📫 ubiquitous on twitter @imashavrik
 
 - REMARK:
-- excluding being unsympathetic, imposter syndrome, and the dunning kruger effect which are some of the problems scourging the interractions of person to person and     relationships of a person to society,the effects of CORRELATION FALLACY is the worst of all, there is always no way of recovery from it.
+- excluding being unsympathetic, imposter syndrome, and the dunning kruger effect which are some of the problems scourging the interractions of person to person and     relationships of a person to society,the effects of CORRELATION FALLACY is the worst of all, there is almost always no way of recovery from it.
 - I listen to Drake and Mozart.
 - 
 - SIMPLY PUT:
 - DART/FLUTTER,ELIXIR and GOLANG
 
-- repos going back public on June 30th.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imashavrik)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 imashavrik/imashavrik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
