@@ -1,22 +1,4 @@
-- INTRODUCTION
-- 👋 hallo, my name is  ignas mashauri.
-- years of experience: "when I was 2, I scribbled stuff on a piece of paper and people came over and said it was Java"
-- making mobile applications (using DART/FLUTTER) is my first priority, 83.72% of the world have a smartphone.
-- actually DART is a poisonous frog.
-- aiding others (when I can)  by making tools and writing articles explaining them, cause people don't really read the docs.
 
-- HOBBIES:
-- 👀 I love yogurt,seasonally making infosec tools I call them "hntr/hntr_gthrrs/hckrs", and  also love making API's, I find it therapeutic
-- 🌱 I’m currently learning Erlang && || Elixir
-- 💞️ I’m looking to collaborate on all kinds of flutter Projects
-- 📫 ubiquitous on twitter @imashavrik
-
-- REMARK:
-- excluding being unsympathetic, imposter syndrome, and the dunning kruger effect which are some of the problems scourging the interractions of person to person and     relationships of a person to society,the effects of CORRELATION FALLACY is the worst of all, there is almost always no way of recovery from it.
-- I listen to Drake and Mozart.
-- 
-- SIMPLY PUT:
-- DART/FLUTTER,ELIXIR and GOLANG
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imashavrik)](https://github.com/anuraghazra/github-readme-stats)
 <!---
